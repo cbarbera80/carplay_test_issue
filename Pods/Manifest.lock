@@ -1,0 +1,16 @@
+PODS:
+  - Intercom (12.4.3)
+
+DEPENDENCIES:
+  - Intercom
+
+SPEC REPOS:
+  trunk:
+    - Intercom
+
+SPEC CHECKSUMS:
+  Intercom: 43bfacc55b1c93cce9ec569833696d3f15678430
+
+PODFILE CHECKSUM: 1a4ca72fbc2fae61fdf9ac618a1e7b7b9b45d924
+
+COCOAPODS: 1.11.3
